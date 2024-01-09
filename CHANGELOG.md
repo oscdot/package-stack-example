@@ -1,5 +1,11 @@
 # package-stack-example
 
+## 0.0.4
+
+### Patch Changes
+
+- b4124c6: added npm publish config
+
 ## 0.0.3
 
 ### Patch Changes
